@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ALEXPLUS</string>
+    <string name="version">Version 1.0.1</string>
+    <string name="google_api_key" translatable="false">MY_APY_KEY</string>
+</resources>
